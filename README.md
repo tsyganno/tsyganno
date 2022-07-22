@@ -3,6 +3,8 @@
 ```shell
 Skills:
 ```
+<style>p{color:red;}</style>
+*foo*
 p {color:orange;}
 </style>
 Python
