@@ -3,11 +3,9 @@
 ```shell
 Skills:
 ```
-<del>
-
-*foo*
-
-</del>
+<i class="foo">
+*bar*
+</i>
 
 p {color:orange;}
 </style>
