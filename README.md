@@ -1,5 +1,4 @@
-## foo
-Python Developer
+# Python Developer
 
 ```shell
 Skills:
