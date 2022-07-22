@@ -3,8 +3,9 @@
 ```shell
 Skills:
 ```
+```shell
 a_"foo"_
-
+```
 p {color:orange;}
 </style>
 Python
