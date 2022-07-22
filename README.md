@@ -1,6 +1,6 @@
 ## foo
 Python Developer
-##
+
 ```shell
 Skills:
 ```
