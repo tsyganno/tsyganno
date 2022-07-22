@@ -3,12 +3,11 @@
 ```shell
 Skills:
 ```
-<style
-  type="text/css">
-h1 {color:red;}
-p {color:blue;}
-</style>
-okay
+<del>
+
+*foo*
+
+</del>
 
 p {color:orange;}
 </style>
