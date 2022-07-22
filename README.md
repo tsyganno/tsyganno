@@ -3,7 +3,7 @@
 ```shell
 Skills:
 ```
-<i class="foo">
+## <i class="foo">
 *bar*
 </i>
 
@@ -14,6 +14,7 @@ p {color:blue;}
 </style>
 Django DRF aiogram PostgreSQL HTML CSS Git Docker
 
+```shell
 E-mail:
-
-kendra-lust1978@yandex.ru
+```
+## kendra-lust1978@yandex.ru
