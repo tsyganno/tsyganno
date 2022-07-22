@@ -1,7 +1,7 @@
 # Python Developer
 
 ```shell
-Skills:
+## Skills:
 ```
 ## <i class="foo">
 *bar*
