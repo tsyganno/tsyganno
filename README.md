@@ -1,11 +1,12 @@
 # Python Developer
 
 ```shell
-## Skills:
+Skills:
 ```
-## <i class="foo">
+<div>
+*foo*
+
 *bar*
-</i>
 
 p {color:orange;}
 </style>
