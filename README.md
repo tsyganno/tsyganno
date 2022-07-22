@@ -3,10 +3,7 @@
 ```shell
 Skills:
 ```
-<div>
-*foo*
-
-*bar*
+a_"foo"_
 
 p {color:orange;}
 </style>
