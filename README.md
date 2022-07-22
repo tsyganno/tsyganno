@@ -3,7 +3,12 @@
 ```shell
 Skills:
 ```
-Python Django DRF aiogram PostgreSQL HTML CSS Git Docker
+p {color:orange;}
+</style>
+Python
+p {color:blue;}
+</style>
+Django DRF aiogram PostgreSQL HTML CSS Git Docker
 
 E-mail:
 
