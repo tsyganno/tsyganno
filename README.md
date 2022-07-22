@@ -3,8 +3,13 @@
 ```shell
 Skills:
 ```
-<style>p{color:red;}</style>
-*foo*
+<style
+  type="text/css">
+h1 {color:red;}
+p {color:blue;}
+</style>
+okay
+
 p {color:orange;}
 </style>
 Python
