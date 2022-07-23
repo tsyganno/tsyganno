@@ -4,14 +4,15 @@
 Skills:
 ```
 
-### Python### Django 
-### DRF 
-### aiogram 
-### PostgreSQL 
-### HTML 
-### CSS 
-### Git 
-### Docker
+#### Python
+#### Django 
+#### DRF 
+#### aiogram 
+#### PostgreSQL 
+#### HTML 
+#### CSS 
+#### Git 
+#### Docker
 
 ```shell
 E-mail:
