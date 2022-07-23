@@ -4,8 +4,7 @@
 Skills:
 ```
 
-### Python
-### Django 
+### Python### Django 
 ### DRF 
 ### aiogram 
 ### PostgreSQL 
