@@ -8,6 +8,7 @@ Skills:
 ##### Django 
 ##### DRF 
 ##### aiogram 
+##### telebot 
 ##### PostgreSQL 
 ##### HTML 
 ##### CSS 
