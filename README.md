@@ -8,12 +8,8 @@ Skills:
 * Django 
 * DRF 
 * aiogram 
-* telebot 
 * PostgreSQL 
-* HTML 
-* CSS 
 * Git 
-* Docker
 
 ```shell
 E-mail:
