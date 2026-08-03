@@ -14,4 +14,4 @@ Skills:
 ```shell
 E-mail:
 ```
-## kendra-lust1978@yandex.ru
+## tsyganlee@gmail.com
